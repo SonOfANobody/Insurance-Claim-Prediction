@@ -1,8 +1,3 @@
-Here’s a **clean, professional, GitHub-ready `README.md`** tailored specifically to your **Insurance Claim Prediction** project.
-You can **copy-paste this directly** into your repository.
-
----
-
 # 🏢 Insurance Claim Prediction Model
 
 ## 📌 Project Overview
@@ -108,7 +103,7 @@ insurance-claim-prediction/
 
 **Muhammad Abdulkareem**
 Data Analyst / Machine Learning Enthusiast
+abdulkareemmuhammad683@gmail.com
+linkedin.com/in/sonofanobody12
 
-
-Just say the word 👌
 
